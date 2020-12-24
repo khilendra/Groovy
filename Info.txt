@@ -1,0 +1,1 @@
+This is RSA method for getting a jira instance authentication created
